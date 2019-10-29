@@ -1,0 +1,9 @@
+[
+    {"id": 1, "firstname": "Naresh", "lastname": "daram", "email": "vega@gmail.com", "job": "Developer", "hiringdate": "18/06/2011", "department":"Development", "salary":"40000" },
+    {"id": 2, "firstname": "Rama", "lastname": "sv", "email": "vega@gmail.com", "job": "Developer", "hiringdate": "18/06/2011", "department":"Development", "salary":"40000" },
+    {"id": 3, "firstname": "Raja", "lastname": "kar", "email": "vega@gmail.com", "job": "Developer", "hiringdate": "18/06/2011", "department":"Development", "salary":"40000" },
+    {"id": 4, "firstname": "Santhu", "lastname": "ved", "email": "vega@gmail.com", "job": "Developer", "hiringdate": "18/06/2011", "department":"Development", "salary":"40000" },
+    {"id": 5, "firstname": "Shekar", "lastname": "jin", "email": "vega@gmail.com", "job": "Developer", "hiringdate": "18/06/2011", "department":"Development", "salary":"40000" },
+    {"id": 6, "firstname": "Raju", "lastname": "zen", "email": "vega@gmail.com", "job": "Developer", "hiringdate": "18/06/2011", "department":"Development", "salary":"40000" },
+    {"id": 6, "firstname": "Kumar", "lastname": "zen", "email": "vega@gmail.com", "job": "Developer", "hiringdate": "18/06/2011", "department":"Development", "salary":"40000" }
+]
